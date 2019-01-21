@@ -17,3 +17,5 @@ email_address: some@email.com
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
